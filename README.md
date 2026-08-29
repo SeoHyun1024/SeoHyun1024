@@ -59,13 +59,16 @@ I enjoy breaking down complex problems, reproducing issues precisely, and turnin
 | **[🌿 Chaerok](https://github.com/team-chaerok)**         | 충남 여행을 필름처럼 기록하는 위치 기반 여행 앱 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Camera](https://img.shields.io/badge/Camera-324D3E?style=flat-square&logoColor=white) ![Location](https://img.shields.io/badge/Location-4285F4?style=flat-square&logo=googlemaps&logoColor=white) | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/team-chaerok/chaerok-fe)                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **[🧠 AI Mart Guide](https://github.com/24-2-Capstone)**  | AI를 활용한 사용자 맞춤형 마트 쇼핑 가이드      | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![AI API](https://img.shields.io/badge/AI_API-111111?style=flat-square&logo=openai&logoColor=white)                                                                                                 | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/24-2-Capstone/Frontend)                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-### 🏆 Awards
+## 🏆 Awards
 
-- Excellence Award — 우수상
-- Popularity Award — 인기상
-- Encouragement Award — 장려상
+- **대상** — 2024 SW 세종대학교 중심대학 창업 네트워킹 데이  
+  메모 기반 아이디어 구체화 앱 · `Flutter` · 팀 **Idid**
 
-`Flutter` `AI API` `Mobile`
+- **우수상 · 인기상** — 제18회 창의설계경진대회  
+  음성 기반 **AI 마트 가이드** · `Flutter` `STT/TTS` `마음AI API` · 팀 **AIMI**
+
+- **장려상** — 제13회 공학교육인증 창의설계경진대회  
+  음성 기반 **AI 마트 가이드** · `Flutter` `STT/TTS` `마음AI API` · 팀 **AIMI**
 
 ---
 
