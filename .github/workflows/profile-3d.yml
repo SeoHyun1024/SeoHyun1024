@@ -10,15 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_WORKFLOWS_TOKEN }}
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_WORKFLOWS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
-          git config user.name SeoHyun1024
-          git config user.email leesophy0805@google.com
+          git config user.name "SeoHyun1024"
+          git config user.email "leesophy0805@google.com"
           git add -A .
-          git commit -m "generated"
+          git diff --cached --quiet || git commit -m "generated"
           git push
