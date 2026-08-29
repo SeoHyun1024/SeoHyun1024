@@ -53,85 +53,17 @@ I enjoy breaking down complex problems, reproducing issues precisely, and turnin
 
 ## 🚀 Featured Projects
 
-### 주요 프로젝트
-
-### 📱 RomRom
-
-**Flutter-based mobile application**
-**Flutter 기반 모바일 애플리케이션**
-
-* Implemented real-time chat using **STOMP**
-  **STOMP** 기반 실시간 채팅 기능 구현
-
-* Integrated **Firebase Push Notification**
-  **Firebase Push Notification** 연동
-
-* Developed map-based features with **Naver Map**
-  **Naver Map** 기반 위치·지도 기능 구현
-
-* Built AI recommendation features
-  AI 기반 추천 기능 구현
-
-* Managed iOS TestFlight / Android deployment workflows
-  iOS TestFlight 및 Android 배포 프로세스 관리
-
-* Improved deployment efficiency with **GitHub Actions CI/CD**
-  **GitHub Actions CI/CD**를 활용한 배포 자동화
-
-`Flutter` `Dart` `Firebase` `STOMP` `Naver Map` `GitHub Actions`
-
----
-
-### 🌿 Chaerok
-
-**Chungnam local travel & film-recording app**
-**충남 지역 기반 여행 기록 서비스**
-
-A location-based travel service that creates regional film rolls and records users' travel experiences.
-
-사용자의 위치를 기반으로 지역별 필름 롤을 생성하고, 여행 과정과 사진을 하나의 기록으로 남기는 로컬 여행 서비스입니다.
-
-* Regional film-roll generation based on user location
-  사용자 위치 기반 지역별 필름 롤 생성
-
-* GPS-based place verification
-  GPS 기반 방문 장소 인증
-
-* Camera-centered mobile UX
-  카메라 촬영 중심의 모바일 UX 설계
-
-* Local film-roll management
-  사용자 기기 기반 필름 롤 관리
-
-* Automatic travel record / reel concept
-  여행 기록을 기반으로 한 자동 릴스·기록 생성
-
-* Designed with a Korean-inspired visual identity
-  한국적 감성을 반영한 UI 및 디자인 시스템 구성
-
-`Flutter` `Dart` `Figma` `Location` `Camera`
-
----
-
-### 🧠 AI Mart Guide
-
-**AI-powered shopping assistant**
-**AI 기반 마트 쇼핑 가이드 서비스**
-
-* Built as a university capstone project
-  대학교 캡스톤 프로젝트로 개발
-
-* Integrated AI API functionality into a user-facing application
-  AI API를 실제 사용자 서비스에 연동
-
-* Focused on practical AI-assisted user experience
-  AI를 활용한 실용적인 사용자 경험 설계
+| Project                                                   | Description                                     | Tech                                                                                                                                                                                                                                                                                                       | Links                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[📱 RomRom](https://github.com/TEAM-ROMROM/RomRom-FE)** | 위치 기반 물물교환 및 실시간 채팅 모바일 서비스 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![STOMP](https://img.shields.io/badge/STOMP-6DB33F?style=flat-square&logoColor=white)     | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TEAM-ROMROM/RomRom-FE) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-%EB%AC%BC%EB%AC%BC%EA%B5%90%ED%99%98-%EB%A1%AC%EB%A1%AC/id6748823976) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.alom.romrom&hl=ko) |
+| **[🌿 Chaerok](https://github.com/team-chaerok)**         | 충남 여행을 필름처럼 기록하는 위치 기반 여행 앱 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Camera](https://img.shields.io/badge/Camera-324D3E?style=flat-square&logoColor=white) ![Location](https://img.shields.io/badge/Location-4285F4?style=flat-square&logo=googlemaps&logoColor=white) | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/team-chaerok/chaerok-fe)                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **[🧠 AI Mart Guide](https://github.com/24-2-Capstone)**  | AI를 활용한 사용자 맞춤형 마트 쇼핑 가이드      | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![AI API](https://img.shields.io/badge/AI_API-111111?style=flat-square&logo=openai&logoColor=white)                                                                                                 | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/24-2-Capstone/Frontend)                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ### 🏆 Awards
 
-* Excellence Award — 우수상
-* Popularity Award — 인기상
-* Encouragement Award — 장려상
+- Excellence Award — 우수상
+- Popularity Award — 인기상
+- Encouragement Award — 장려상
 
 `Flutter` `AI API` `Mobile`
 
@@ -162,31 +94,31 @@ Frontend Engineering
 I care about more than simply making features work.
 단순히 기능이 동작하는 것에서 끝나지 않고, 문제 해결 과정과 유지보수 가능한 구조를 중요하게 생각합니다.
 
-* **Reproduce problems before fixing them**
+- **Reproduce problems before fixing them**
   문제를 수정하기 전에 동일한 상황을 정확하게 재현합니다.
 
-* **Break large problems into smaller flows**
+- **Break large problems into smaller flows**
   복잡한 문제를 작은 흐름과 단위로 나누어 접근합니다.
 
-* **Keep UI and application logic maintainable**
+- **Keep UI and application logic maintainable**
   UI와 비즈니스 로직을 유지보수하기 쉬운 구조로 설계합니다.
 
-* **Automate repetitive development workflows**
+- **Automate repetitive development workflows**
   반복되는 개발·배포 작업은 자동화합니다.
 
-* **Validate implementations on real devices and realistic environments**
+- **Validate implementations on real devices and realistic environments**
   실제 디바이스와 실제 서비스 환경에 가까운 조건에서 검증합니다.
 
-* **Use AI tools to improve development productivity without losing technical understanding**
+- **Use AI tools to improve development productivity without losing technical understanding**
   기술에 대한 이해를 유지하면서 AI 도구를 활용해 개발 생산성을 높입니다.
 
 ---
 
 ## 📫 Contact
 
-* GitHub: `https://github.com/SeoHyun1024`
-* Email: `leesophy0805@gmail.com`
-* Portfolio / Notion: `Coming Soon`
+- GitHub: `https://github.com/SeoHyun1024`
+- Email: `leesophy0805@gmail.com`
+- Portfolio / Notion: `Coming Soon`
 
 ---
 
