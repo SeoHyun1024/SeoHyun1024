@@ -2,7 +2,15 @@
 
 ### 안녕하세요, 프론트엔드 개발자 이서현입니다.
 
-Frontend Developer focused on building reliable mobile and web experiences.
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=SeoHyun1024&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/SeoHyun1024"
+  width="600"
+  height="300"
+/>
+</a>
+
+<!-- Frontend Developer focused on building reliable mobile and web experiences.
 I mainly work with **Flutter/Dart**, and I also explore **Spring Boot, AI services, LLM/RAG, and computer vision**.
 
 안정적이고 사용성 높은 모바일·웹 서비스를 만드는 프론트엔드 개발자입니다.
@@ -10,7 +18,7 @@ I mainly work with **Flutter/Dart**, and I also explore **Spring Boot, AI servic
 
 I enjoy breaking down complex problems, reproducing issues precisely, and turning ideas into products that actually work.
 
-복잡한 문제를 작은 단위로 나누고, 문제 상황을 정확히 재현한 뒤 실제 동작하는 서비스로 구현하는 과정을 좋아합니다.
+복잡한 문제를 작은 단위로 나누고, 문제 상황을 정확히 재현한 뒤 실제 동작하는 서비스로 구현하는 과정을 좋아합니다. -->
 
 ---
 
