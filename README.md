@@ -2,15 +2,18 @@
 
 ### 안녕하세요, 프론트엔드 개발자 이서현입니다.
 
-<img src="https://raw.githubusercontent.com/SeoHyun1024/SeoHyun1024/main/monkey-civilization.svg" width="960" alt="My monkey civilization">
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=SeoHyun1024&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/SeoHyun1024"
-  width="600"
-  height="300"
-/>
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=SeoHyun1024&utm_content=farm">
+        <img src="https://render.gitanimals.org/farms/SeoHyun1024" width="100%" alt="GitAnimals farm">
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/SeoHyun1024/SeoHyun1024/main/monkey-civilization.svg" width="100%" alt="My monkey civilization">
+    </td>
+  </tr>
+</table>
 
 <!-- Frontend Developer focused on building reliable mobile and web experiences.
 I mainly work with **Flutter/Dart**, and I also explore **Spring Boot, AI services, LLM/RAG, and computer vision**.
