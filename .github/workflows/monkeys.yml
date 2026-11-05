@@ -1,0 +1,26 @@
+name: Monkey Civilization
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monkeys:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jihoo12/monkeys@v1
+        with:
+          github_token: ${{ secrets.GH_WORKFLOWS_TOKEN }}
+          username: ${{ github.repository_owner }}
+      - run: |
+          git add monkey-civilization.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "monkey-civilization[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh monkey civilization"
+          git push
