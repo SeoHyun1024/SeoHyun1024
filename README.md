@@ -2,7 +2,7 @@
 
 ### 안녕하세요, 프론트엔드 개발자 이서현입니다.
 
-<img src="https://raw.githubusercontent.com/USER/REPO/main/monkey-civilization.svg" width="960" alt="My monkey civilization">
+<img src="https://raw.githubusercontent.com/SeoHyun1024/SeoHyun1024/main/monkey-civilization.svg" width="960" alt="My monkey civilization">
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=SeoHyun1024&utm_content=farm">
 <img
